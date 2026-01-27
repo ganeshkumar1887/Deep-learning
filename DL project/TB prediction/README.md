@@ -1,3 +1,6 @@
-![TB Image](images/tb.png)
+## TB Sample Image
+
+![TB Image](tb.png)
+
 
 
