@@ -1,3 +1,3 @@
 ## Salary Prediction Output
 
-![Salary Prediction](salaryprediction.webp)
+![Salary Prediction](salarypredictionpptfinal.webp)
